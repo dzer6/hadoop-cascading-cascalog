@@ -14,4 +14,5 @@
        [?word ?count]
        ((hfs-delimited in :skip-header? true) _ ?line)
        (split ?line :> ?word)
-       (c/count ?count)))
+       (c/count ?count))
+)
