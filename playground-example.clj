@@ -1,3 +1,6 @@
+; https://github.com/nathanmarz/cascalog/wiki/Introductory-tutorial%2C-part-1
+
+
 (use 'cascalog.playground) (bootstrap)
 
 
