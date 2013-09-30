@@ -1,4 +1,5 @@
 ; https://github.com/nathanmarz/cascalog/wiki/Introductory-tutorial%2C-part-1
+; https://github.com/nathanmarz/cascalog/blob/develop/cascalog-core/src/clj/cascalog/playground.clj
 
 
 (use 'cascalog.playground) (bootstrap)
